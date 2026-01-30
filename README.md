@@ -1,36 +1,45 @@
 <h1 align="center">Hi there, I'm Abhishek Maurya 👋</h1>
 
 <p align="center">
-  🌟 Passionate about <strong>AI, Web Development</strong> and all things <strong>Tech</strong><br>
-  🎓 Undergraduate in Computer Science and Engineering<br>
-  🤖 Currently training AI models @ Outlier.ai | Former Intern @ Coincent.ai<br>
-  🔍 Exploring full-stack web development and machine learning<br>
-  📫 Reach me on <a href="https://linkedin.com/in/abhishek-maurya-7b7228271" target="_blank">LinkedIn</a><br>
+  🌟 Passionate about <strong>AI, Machine Learning, and Web Development</strong><br>
+  🎓 Undergraduate in Computer Science & Engineering<br>
+  🤖 AI Model Trainer @ Outlier.ai | Former Startup & Entrepreneurship Intern @ Coincent.ai<br>
+  🔍 Exploring full-stack web development and data-driven problem solving<br>
+  📫 Reach me on <a href="https://www.linkedin.com/in/abhishek-maurya-7b7228271/" target="_blank">LinkedIn</a><br>
   😄 Pronouns: He/Him<br>
-  ⚡ Fun fact: I love building things that make life easier and smarter!
+  ⚡ Fun fact: I enjoy building tech solutions that simplify real-world problems
 </p>
 
 ---
 
-### 🚀 What I'm Up To
-- 🌱 Learning modern web dev with [Hitesh Choudhary](https://github.com/hiteshchoudhary)'s course
-- 💡 Working on AI-based sentiment analysis & more
-- 🛠️ Building personal projects to improve and showcase my skills
+### 🚀 What I'm Currently Working On
+- 🌱 Learning modern web development (HTML, CSS, JavaScript, React)  
+- 💡 Building AI/ML projects with real-world applications  
+- 🛠️ Developing personal projects to strengthen problem-solving and coding skills  
 
-### 🤝 Let's Collaborate!
-- 🤖 AI/ML Projects
-- 🕸️ Web Development (Frontend & Backend)
-- 📊 Data-driven solutions with real-world impact
+---
+
+### 🤝 Open to Collaboration On
+- 🤖 AI / Machine Learning projects  
+- 🕸️ Web Development (Frontend & Backend basics)  
+- 📊 Data-driven and automation-focused solutions  
+
+---
+
+### 🧠 Skills & Tools
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Web:** Responsive Web Design, Frontend Basics  
+- **AI/ML:** Model training, data understanding  
+- **Tools:** Git, GitHub  
 
 ---
 
 ### 📫 Connect With Me
-- 🌐 [LinkedIn](https://linkedin.com/in/abhishek-maurya-7b7228271)
-- 💌 Drop a message via LinkedIn or GitHub issues
+- 🌐 <a href="https://www.linkedin.com/in/abhishek-maurya-7b7228271/" target="_blank">LinkedIn</a>
+- 💻 <a href="https://github.com/Abhishek-Maurya-D" target="_blank">GitHub</a>
 
 ---
 
 <!---
-Abhishek-Maurya-D/Abhishek-Maurya-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Abhishek-Maurya-D/Abhishek-Maurya-D is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
